@@ -1,1 +1,7 @@
 seaborn 
+pandas
+numpy
+plotly
+matplotlib.pyplot
+scikit-learn
+time
